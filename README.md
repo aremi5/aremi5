@@ -6,6 +6,12 @@ I build hands-on enterprise IT labs in Microsoft Azure to develop and demonstrat
 
 ---
 
+## 🔐 Security Clearance
+
+**Active U.S. Secret Security Clearance** — granted through U.S. Army service
+
+---
+
 ## 🛠️ Technical Skills
 
 **Operating Systems:** Windows Server 2022, Windows 11, Linux  
@@ -68,10 +74,10 @@ Coming soon — enterprise endpoint management lab covering SCCM installation, c
 
 ## 📫 Let's Connect
 
-I'm actively seeking Help Desk and IT Support roles where I can apply my hands-on lab experience in a production environment.
+I'm actively seeking Help Desk and IT Support roles — including government contractor and federal agency positions. Open to opportunities where my clearance, hands-on lab experience, and military background add immediate value.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/alexander-remi)
 
 ---
 
-*Currently studying for AZ-900 | Open to Help Desk, Desktop Support, and IT Support opportunities*
+*U.S. Army Veteran | Secret Clearance | CompTIA Security+ | AZ-900 In Progress*
