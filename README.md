@@ -80,4 +80,4 @@ I'm actively seeking Help Desk and IT Support roles — including government con
 
 ---
 
-*U.S. Army Veteran | Secret Clearance | CompTIA Security+ | AZ-900 In Progress*
+*U.S. Army Reserve | Secret Clearance | CompTIA Security+ | AZ-900 In Progress*
