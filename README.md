@@ -30,7 +30,7 @@ I build hands-on enterprise IT labs in Microsoft Azure to develop and demonstrat
 | Certification | Status |
 |---------------|--------|
 | CompTIA Security+ | ✅ Earned |
-| Microsoft AZ-900 — Azure Fundamentals | 🔄 In-progress |
+| Microsoft AZ-900 — Azure Fundamentals | Earned |
 
 ---
 
